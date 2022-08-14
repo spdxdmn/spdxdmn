@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spdxdmn
+- 👋 Hi, I’m @Mr.Grinch
 - 👀 I’m interested in learning more about Voron and other 3D printers
 - 🌱 I’m currently learning more
 - 💞️ I’m looking to collaborate on stuff
